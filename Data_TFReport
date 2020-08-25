@@ -1,1 +1,4 @@
-
+echo # githubexample >> # README.md
+git init
+git addreadme.md
+git remote add original https://github.com/taewookj/Gitexample.git
